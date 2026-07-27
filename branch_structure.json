@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/dual-pane-swap-interface",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/dual-pane-swap-interface": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/dual-pane-swap-interface",
+    "origin"
+  ]
+}
